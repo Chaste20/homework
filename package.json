@@ -27,5 +27,8 @@
     "host_permissions": [
       "https://*/*"
     ]
-  }
+  },
+  "main": "index.js",
+  "keywords": [],
+  "license": "ISC"
 }
